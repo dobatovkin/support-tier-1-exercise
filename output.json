@@ -1,0 +1,32 @@
+[
+  {
+    "name": "John Doe",
+    "price": 10.99,
+    "tags": ["tag1", "tag2"],
+    "createdAt": "2024-02-28T12:00:00Z"
+  },
+  {
+    "name": "Alice Smith",
+    "price": 24.99,
+    "tags": ["tag2", "tag3"],
+    "createdAt": "2024-02-27T10:15:00Z"
+  },
+  {
+    "name": "Bob Johnson",
+    "price": 15.5,
+    "tags": ["tag1", "tag3"],
+    "createdAt": "2024-02-26T08:45:00Z"
+  },
+  {
+    "name": "Eva Davis",
+    "price": 19.75,
+    "tags": ["tag2", "tag4"],
+    "createdAt": "2024-02-25T14:20:00Z"
+  },
+  {
+    "name": "Michael Brown",
+    "price": 30,
+    "tags": ["tag1", "tag5"],
+    "createdAt": "2024-02-24T09:30:00Z"
+  }
+]

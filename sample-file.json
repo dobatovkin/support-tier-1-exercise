@@ -1,0 +1,79 @@
+{
+  "users": [
+      {
+          "id": 1,
+          "name": "John Doe",
+          "description": "Description for John Doe's object",
+          "color": "Red",
+          "quantity": 5,
+          "price": 10.99,
+          "isAvailable": true,
+          "tags": [
+              "tag1",
+              "tag2"
+          ],
+          "createdAt": "2024-02-28T12:00:00Z",
+          "updatedAt": "2024-02-28T14:30:00Z"
+      },
+      {
+          "id": 2,
+          "name": "Alice Smith",
+          "description": "Description for Alice Smith's object",
+          "color": "Blue",
+          "quantity": 8,
+          "price": 24.99,
+          "isAvailable": false,
+          "tags": [
+              "tag2",
+              "tag3"
+          ],
+          "createdAt": "2024-02-27T10:15:00Z",
+          "updatedAt": "2024-02-27T12:45:00Z"
+      },
+      {
+          "id": 3,
+          "name": "Bob Johnson",
+          "description": "Description for Bob Johnson's object",
+          "color": "Green",
+          "quantity": 12,
+          "price": 15.50,
+          "isAvailable": true,
+          "tags": [
+              "tag1",
+              "tag3"
+          ],
+          "createdAt": "2024-02-26T08:45:00Z",
+          "updatedAt": "2024-02-26T11:00:00Z"
+      },
+      {
+          "id": 4,
+          "name": "Eva Davis",
+          "description": "Description for Eva Davis's object",
+          "color": "Yellow",
+          "quantity": 3,
+          "price": 19.75,
+          "isAvailable": true,
+          "tags": [
+              "tag2",
+              "tag4"
+          ],
+          "createdAt": "2024-02-25T14:20:00Z",
+          "updatedAt": "2024-02-25T16:30:00Z"
+      },
+      {
+          "id": 5,
+          "name": "Michael Brown",
+          "description": "Description for Michael Brown's object",
+          "color": "Purple",
+          "quantity": 10,
+          "price": 30.00,
+          "isAvailable": false,
+          "tags": [
+              "tag1",
+              "tag5"
+          ],
+          "createdAt": "2024-02-24T09:30:00Z",
+          "updatedAt": "2024-02-24T11:45:00Z"
+      }
+  ]
+}
