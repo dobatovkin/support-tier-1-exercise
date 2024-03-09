@@ -4,7 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"\nTask 1\" && node task1.js && echo \"\nTask 2\" && node task2.js && echo \"\nTask 3\" && node task3.js"
   },
   "author": "",
   "license": "MIT"

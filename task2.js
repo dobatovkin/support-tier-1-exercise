@@ -35,6 +35,6 @@ const nums1 = [1, 2, 3];
 const nums2 = [0, 1];
 const nums3 = [2,4,8,16];
 
-console.log(permutateNumsArray(nums1));
-console.log(permutateNumsArray(nums2));
-console.log(permutateNumsArray(nums3));
+console.log('Input: ', nums1, 'Output: ', permutateNumsArray(nums1));
+console.log('Input: ', nums2, 'Output: ', permutateNumsArray(nums2));
+console.log('Input: ', nums3, 'Output: ', permutateNumsArray(nums3));
